@@ -1,3 +1,3 @@
 ## problem-solving
-The repository used to collect solutions to different "interview" type problems sourced from the web.
+The repository is used to collect solutions to different "interview" type problems sourced from the web.
 
